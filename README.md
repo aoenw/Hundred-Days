@@ -43,7 +43,13 @@ The intention of this mod is not and never will be to earn money and is offered 
 
 * This mod is the work of a passionate but small team. Some elements of the mod have therefore been taken from time to time from other games and other cultural products to enable us to approach what we wanted to accomplish. If anyone feels harmed by this mod, we'll be happy to give proper credits if forgotten or simply to withdraw some materials from the mod if no other solution is possible.
 
+## Authors
+
+* Yomgui ([NE](http://www.ne.elpea.net/forum/portal.php))
+* aoenw ([github](https://github.com/aoenw))
+
 ## Credits & Thanks
 
 * **Microsoft Games** and **Robot Entertainement** for Age of Empires III
+* **[Napoleonic Era](http://www.ne.elpea.net/forum/portal.php) mod's team** for providing the initial codebase
 * **JFC** for his [Napoleon Total War flag mod](http://www.twcenter.net/forums/showthread.php?335380-NAPOLEON-TOTAL-FLAGS-2-3-AND-EPIC-MUSIC)
