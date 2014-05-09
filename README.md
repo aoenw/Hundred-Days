@@ -58,5 +58,6 @@ The intention of this mod is not and never will be to earn money and is offered 
 ## Credits & Thanks
 
 * **Microsoft Games** and **Robot Entertainement** for Age of Empires III
-* **[Napoleonic Era](http://www.ne.elpea.net/forum/portal.php) mod's team** for providing the initial codebase
+* **[Napoleonic Era](http://www.ne.elpea.net/forum/portal.php) mod's team** for providing the initial codebase, materials and textures
 * **JFC** for his [Napoleon Total War flag mod](http://www.twcenter.net/forums/showthread.php?335380-NAPOLEON-TOTAL-FLAGS-2-3-AND-EPIC-MUSIC)
+* Special thanks to **Tilanus Commodor**
