@@ -1,3 +1,5 @@
+<img style="display:block; margin-left:auto; margin-right:auto;" src="https://raw.github.com/aoenw/Hundred-Days/master/docs/img/aoe3-logo.png" />
+
 ![header](https://raw.github.com/aoenw/Hundred-Days/master/docs/img/header-top.png)
 
 # Hundred Days
