@@ -3,18 +3,19 @@
 </p>
 
 # Hundred Days
-Age of Empires III - *Hundred Days* is a total conversion mod for Age of Empires III - *The Asian Dynasties*. Its aim is to bring classic Age of Empires' gameplay to the napoleonic era.
+*Hundred Days* is a total conversion mod for Age of Empires III - *The Asian Dynasties*. Its aim is to bring classic Age of Empires' gameplay to the napoleonic era.
 
-As such, in *Hundred Days*, players battle from the year 1789 to the year 1815 and can choose from a wide array of nations to confront each others.
+As such, in *Hundred Days*, players battle from the year 1789 and the turmoil of French revolution to the year 1815 and the battle of Waterloo.
 
 **Current version**: alpha v0.9.1
 
 ## Main features
 
-* Classic AoE meets a new gameplay.
+* Classic AoE III meets new gameplay mechanisms.
 * 11 nations battling through the napoleonic era.
 * Better textures for units (128px).
-* More realistic game (compared to classic Age of Empires): for instance, units walk slower, fire slower and can miss.
+* Revamped sounds.
+* More realistic game & gameplay (compared to classic Age of Empires).
 * Overhaul of the game's Homecity system.
 
 ## Available Nations
@@ -35,12 +36,12 @@ As such, in *Hundred Days*, players battle from the year 1789 to the year 1815 a
 ## Installation
 
 ## Guide & Tutorial
-*Hundred Days* is a total conversion mod and contains a lot of mechanisms that may seem far from the original game. It is advised to visit the [wiki](#) to browse the mod's full documentation and understand how everything works.
+*Hundred Days* is a total conversion mod and contains a lot of mechanisms that may seem far from the original game. It is advised to visit the [wiki](https://github.com/aoenw/Hundred-Days/wiki) to browse the mod's full documentation and understand how everything works.
 
 ## Bugs & Troubleshooting
-If something seems unclear, please visit the [FAQ & troubleshooting section](#) of the wiki to see if your problem is not already known.
+If something seems unclear, please visit the [FAQ & troubleshooting section](https://github.com/aoenw/Hundred-Days/wiki/FAQ-&-Troubleshooting) of the wiki to see if your problem is not already known.
 
-If you find any bugs or if your problem remains unsolved, feel free to register an [issue](https://github.com/aoenw/Hundred-Days/issues) on this repository so we can fix it.
+If you find any bugs or if your problem remains unsolved, feel free to file an [issue](https://github.com/aoenw/Hundred-Days/issues) on this repository so we can fix it together.
 
 ## Disclaimer
 The intention of this mod is not and never will be to earn money and is offered freely to everyone. This said, the following things have to been clearly stated:
