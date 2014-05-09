@@ -1,3 +1,5 @@
+![header](https://raw.github.com/aoenw/Hundred-Days/master/docs/img/header-top.png)
+
 # Hundred Days
 Age of Empires III - *Hundred Days* is a total conversion mod for Age of Empires III - *The Asian Dynasties*. Its aim is to bring classic Age of Empires' gameplay to the napoleonic era.
 
@@ -7,9 +9,9 @@ As such, in *Hundred Days*, players battle from the year 1789 to the year 1815 a
 
 ## Main features
 
-* Mix of classic AoE and new gameplay.
+* Classic AoE meets a new gameplay.
 * 11 nations battling through the napoleonic era.
-* Better textures for units (64px to 128px).
+* Better textures for units (128px).
 * More realistic game (compared to classic Age of Empires): for instance, units walk slower, fire slower and can miss.
 * Overhaul of the game's Homecity system.
 
@@ -36,12 +38,12 @@ As such, in *Hundred Days*, players battle from the year 1789 to the year 1815 a
 ## Bugs & Troubleshooting
 If something seems unclear, please visit the [FAQ & troubleshooting section](#) of the wiki to see if your problem is not already known.
 
-If you find any bugs or if your problem remains unsolved, feel free to register and issue on this repository so we can fix it.
+If you find any bugs or if your problem remains unsolved, feel free to register an [issue](https://github.com/aoenw/Hundred-Days/issues) on this repository so we can fix it.
 
 ## Disclaimer
 The intention of this mod is not and never will be to earn money and is offered freely to everyone. This said, the following things have to been clearly stated:
 
-* This mod is the work of a passionate but small team. Some elements of the mod have therefore been taken from time to time from other games and other cultural products to enable us to approach what we wanted to accomplish. If anyone feels harmed by this mod, we'll be happy to give proper credits if forgotten or simply to withdraw some materials from the mod if no other solution is possible.
+* This mod is the work of a passionate but small team. Some elements of the mod have therefore been taken from time to time from other games and other cultural products to enable us to approach what we wanted to accomplish. If anyone feels harmed by this mod, we'll be happy to give proper credits if forgotten or simply to withdraw some materials from the mod if no other solution were to be found.
 
 ## Authors
 
