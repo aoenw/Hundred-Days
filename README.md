@@ -18,6 +18,8 @@ As such, in *Hundred Days*, players battle from the year 1789 and the turmoil of
 * More realistic game & gameplay (compared to classic Age of Empires).
 * Overhaul of the game's Homecity system.
 
+For further details, go check this wiki [page](https://github.com/aoenw/Hundred-Days/wiki/Mod-Highlights).
+
 ## Available Nations
 11 nations are available for the time being (note that the United Provinces are not completely finished).
 
