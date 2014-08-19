@@ -9,6 +9,9 @@ As such, in *Hundred Days*, players battle from the year 1789 and the turmoil of
 
 **Current version**: alpha v0.9.1
 
+## Installation
+To install the mod, please refer to the wiki's [Installation Notes](https://github.com/aoenw/Hundred-Days/wiki/Installation-Notes).
+
 ## Main features
 
 * Classic AoE III meets new gameplay mechanisms.
