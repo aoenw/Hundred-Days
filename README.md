@@ -11,7 +11,9 @@ As such, in *Hundred Days*, players battle from the year 1789 and the turmoil of
 
 ## Download
 
-You can download the mod's files from the latest github [release](https://github.com/aoenw/Hundred-Days/releases/download/0.1.0/Hundred.Days.Beta.0.1.0-beta.zip). 
+You can download the mod's files from the latest github [release](https://github.com/aoenw/Hundred-Days/releases/download/0.1.0/Hundred.Days.Beta.0.1.0-beta.zip).
+
+ALternatively, you can download the mod from [moddb](http://www.moddb.com/mods/hundred-days/downloads).
 
 ## Installation
 To install the mod, please refer to the wiki's [Installation Notes](https://github.com/aoenw/Hundred-Days/wiki/Installation-Notes).
@@ -41,8 +43,6 @@ For further details, go check this wiki [page](https://github.com/aoenw/Hundred-
 * Kingdom of Bavaria
 * Swedish Kingdom
 * United Provinces
-
-## Installation
 
 ## Guide & Tutorial
 *Hundred Days* is a total conversion mod and contains a lot of mechanisms that may seem far from the original game. It is advised to visit the [wiki](https://github.com/aoenw/Hundred-Days/wiki) to browse the mod's full documentation and understand how everything works.
