@@ -7,7 +7,11 @@
 
 As such, in *Hundred Days*, players battle from the year 1789 and the turmoil of French revolution to the year 1815 and the battle of Waterloo.
 
-**Current version**: alpha v0.9.1
+**Current version**: v0.1.0-beta
+
+## Download
+
+You can download the mod's files from the latest github [release](https://github.com/aoenw/Hundred-Days/releases/download/0.1.0/Hundred.Days.Beta.0.1.0-beta.zip). 
 
 ## Installation
 To install the mod, please refer to the wiki's [Installation Notes](https://github.com/aoenw/Hundred-Days/wiki/Installation-Notes).
