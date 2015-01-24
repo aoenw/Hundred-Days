@@ -49,9 +49,9 @@ If something seems unclear, please visit the [FAQ & troubleshooting section](htt
 If you find any bugs or if your problem remains unsolved, feel free to file an [issue](https://github.com/aoenw/Hundred-Days/issues) on this repository so we can fix it together.
 
 ## Disclaimer
-The intention of this mod is not and never will be to earn money and is offered freely to everyone. This said, the following things have to been clearly stated:
+The intention of this mod is not and never will be to earn money and is offered freely to everyone. This said, the following things have to be clearly stated:
 
-* This mod is the work of a passionate but small team. Some elements of the mod have therefore been taken from time to time from other games and other cultural products to enable us to approach what we wanted to accomplish. If anyone feels harmed by this mod, we'll be happy to give proper credits if forgotten or simply to withdraw some materials from the mod if no other solution were to be found.
+* This mod is the work of a passionate but small team. Some elements of the mod have therefore been taken from time to time from other games and other cultural products to enable us to approach what we wanted to accomplish. If anyone feels harmed by this mod, we'll be happy to give proper credits and advertisement if forgotten or simply to withdraw some materials from the mod if no other solution were to be found.
 
 ## Authors
 
