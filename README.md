@@ -13,7 +13,7 @@ As such, in *Hundred Days*, players battle from the year 1789 and the turmoil of
 
 You can download the mod's files from the latest github [release](https://github.com/aoenw/Hundred-Days/releases/download/0.1.0/Hundred.Days.Beta.0.1.0-beta.zip).
 
-ALternatively, you can download the mod from [moddb](http://www.moddb.com/mods/hundred-days/downloads).
+Alternatively, you can download the mod from [moddb](http://www.moddb.com/mods/hundred-days/downloads).
 
 ## Installation
 To install the mod, please refer to the wiki's [Installation Notes](https://github.com/aoenw/Hundred-Days/wiki/Installation-Notes).
