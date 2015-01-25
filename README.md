@@ -3,7 +3,7 @@
 </p>
 
 # Hundred Days
-*Hundred Days* is a total conversion mod for Age of Empires III - *The Asian Dynasties*. Its aim is to bring classic Age of Empires' gameplay to the napoleonic era.
+*Hundred Days* is a total conversion mod for Age of Empires III - *The Asian Dynasties*. Its aim is to offer a new innovative gameplay taking place during the napoleonic wars.
 
 As such, in *Hundred Days*, players battle from the year 1789 and the turmoil of French revolution to the year 1815 and the battle of Waterloo.
 
